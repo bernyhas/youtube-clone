@@ -1,0 +1,90 @@
+ <div class="comment-info">
+            <a href="#" class="profile-comment">
+              <img src="images/jennifer.jpg" alt=""/>
+             </a>
+            <div class="cl-space">
+            
+               <div>
+                 <div>
+                   <h3><a href="#">
+                    Jennifer Lopez <span>3 hours ago</span>
+                   </a></h3>
+                 </div>
+                 <div>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas atque illo quis vel enim eligendi non omnis, modi reprehenderit natus!</p>
+                 </div>
+                 <div class="icon-item">
+                  <div>
+                    <a href="#"><img src="images/thumb-up.svg" alt=""></a>
+                    <span>3</span>
+                  </div>
+                   <a href="#"><img src="images/thumb-down.svg" alt=""></a>
+                   <a href="#">Reply</a>
+                 </div>
+               </div>
+               
+               <div class="icon-vertical-dots">
+                 <img src="images/dots-vertical.svg" alt="">
+               </div>
+            </div>
+           </div>
+           <div class="comment-info">
+            <a href="#" class="profile-comment">
+              <img src="images/mosh.jpg" alt=""/>
+             </a>
+            <div class="cl-space">
+            
+               <div>
+                 <div>
+                   <h3><a href="#">
+                    Jhon Doe <span>3 days ago</span>
+                   </a></h3>
+                 </div>
+                 <div>
+                   <p>Lorem ipsum dolor sit amet.</p>
+                 </div>
+                 <div class="icon-item">
+                  <div>
+                    <a href="#"><img src="images/thumb-up.svg" alt=""></a>
+                    <span>3</span>
+                  </div>
+                   <a href="#"><img src="images/thumb-down.svg" alt=""></a>
+                   <a href="#">Reply</a>
+                 </div>
+               </div>
+               
+               <div class="icon-vertical-dots">
+                 <img src="images/dots-vertical.svg" alt="">
+               </div>
+            </div>
+           </div>
+           <div class="comment-info">
+            <a href="#" class="profile-comment">
+              <img src="images/sebastian.jpg" alt=""/>
+             </a>
+            <div class="cl-space">
+            
+               <div>
+                 <div>
+                   <h3><a href="#">
+                    Sebastien Peter <span>3 weeks ago</span>
+                   </a></h3>
+                 </div>
+                 <div>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum enim quam eligendi, quibusdam dolores excepturi. Iste esse debitis atque dolores ea porro corrupti quos odio quidem, repellendus quas inventore praesentium.</p>
+                 </div>
+                 <div class="icon-item">
+                  <div>
+                    <a href="#"><img src="images/thumb-up.svg" alt=""></a>
+                    <span>3</span>
+                  </div>
+                   <a href="#"><img src="images/thumb-down.svg" alt=""></a>
+                   <a href="#">Reply</a>
+                 </div>
+               </div>
+               
+               <div class="icon-vertical-dots">
+                 <img src="images/dots-vertical.svg" alt="">
+               </div>
+            </div>
+           </div>
